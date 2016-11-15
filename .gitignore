@@ -3,7 +3,7 @@
 .buildpath
 .project
 
-.latex/
-.Doxyfile/
-.html/
+latex/
+Doxyfile
+html/
 
