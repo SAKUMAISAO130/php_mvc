@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_my_app_1_1_exception_1_1_duplicate_email.html" title="MyApp\\Exception\\Duplicate\lEmail" alt="" coords="154,5,338,44"/>
+<area shape="rect" id="node3" href="$class_my_app_1_1_exception_1_1_empty_post.html" title="MyApp\\Exception\\EmptyPost" alt="" coords="150,68,343,93"/>
+<area shape="rect" id="node4" href="$class_my_app_1_1_exception_1_1_invalid_email.html" title="MyApp\\Exception\\InvalidEmail" alt="" coords="146,117,346,143"/>
+<area shape="rect" id="node5" href="$class_my_app_1_1_exception_1_1_invalid_password.html" title="MyApp\\Exception\\InvalidPassword" alt="" coords="133,167,359,192"/>
+<area shape="rect" id="node6" href="$class_my_app_1_1_exception_1_1_unmatch_email_or_password.html" title="MyApp\\Exception\\UnmatchEmail\lOrPassword" alt="" coords="138,216,354,255"/>
+</map>

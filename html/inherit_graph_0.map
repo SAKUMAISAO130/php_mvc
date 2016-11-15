@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_my_app_1_1_controller.html" title="MyApp\\Controller" alt="" coords="5,55,130,80"/>
+<area shape="rect" id="node2" href="$class_my_app_1_1_controller_1_1_index.html" title="MyApp\\Controller\\Index" alt="" coords="182,5,343,31"/>
+<area shape="rect" id="node3" href="$class_my_app_1_1_controller_1_1_login.html" title="MyApp\\Controller\\Login" alt="" coords="182,55,343,80"/>
+<area shape="rect" id="node4" href="$class_my_app_1_1_controller_1_1_signup.html" title="MyApp\\Controller\\Signup" alt="" coords="178,104,347,129"/>
+</map>
