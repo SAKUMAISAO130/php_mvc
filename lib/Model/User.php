@@ -29,7 +29,7 @@ class User extends \MyApp\Model {
 
         if (!password_verify($values['password'], $user->password)) {
             throw new \MyApp\Exception\UnmatchEmailOrPassword();
-        }
+            }
 
         return $user;
     }
